@@ -1,0 +1,35 @@
+namespace Namespace
+{
+    public class ClassName
+    {
+        #region Const
+
+        
+
+        #endregion
+
+        #region Properties
+
+        
+
+        #endregion
+
+        #region Constructors
+
+        
+
+        #endregion
+
+        #region Public Methods
+
+        
+
+        #endregion
+        
+        #region Internal & Private Methods
+        
+        
+
+        #endregion
+    }
+}
